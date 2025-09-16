@@ -16,7 +16,7 @@ Escribir un programa que pregunte el nombre del usuario en la consola y después
 
 Ejercicio 4
 Escribir un programa que muestre por pantalla el resultado de la siguiente operación aritmética 
- 
+ (3+2/2.5)**2
 .
 
 
@@ -29,6 +29,7 @@ Escribir un programa que lea un entero positivo,
 , introducido por el usuario y después muestre en pantalla la suma de todos los enteros desde 1 hasta 
 . La suma de los 
  primeros enteros positivos puede ser calculada de la siguiente forma:
+ suma=n(n+1)/n
 
  
 
