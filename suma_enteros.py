@@ -7,3 +7,10 @@ La suma de los n primeros enteros positivos puede ser calculada de la siguiente 
 suma=n(n+1)/n
 """
 
+def main():
+    numero=int(input("Digite un numero entero positivo: \n"))
+    suma=numero*(numero+1)
+    resultado=suma/2
+    print(resultado)
+if __name__ == '__main__':
+    main()    
