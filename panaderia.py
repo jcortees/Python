@@ -13,7 +13,7 @@ def main():
     pan_no_fresco=int(input("Digite el numero de barra vendidas de pan que no son del dia: "))
     descuento=0.6
     total=pan_no_fresco*pan*descuento
-    print("El descuento es: ", descuento)
+    print("El descuento es: ", descuento*100)
     print("El precio del pan es: ",pan)
     print("El precio total es: ",total)
 
